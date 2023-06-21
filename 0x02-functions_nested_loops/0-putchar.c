@@ -1,13 +1,13 @@
 #include "main.h"
 
 /**
- * main - Entry point
- * 
- *function that prints "_putchar"
- * @_putchar: is the character to print
- * 
- * Return: Always 0 (Success)
- */
+* main - Entry point
+* 
+*function that prints "_putchar"
+* @c: is the character to print
+* 
+* Return: Always 0 (Success)
+*/
 
 int  main(void)
 
