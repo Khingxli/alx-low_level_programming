@@ -2,11 +2,10 @@
 
 /**
 * main - Entry point
-* 
+*
 *function that prints "_putchar"
-* @c: is the character to print
-* 
-* Return: Always 0 (Success)
+*return: Always 0 (Success)
+*@void: is the char to print
 */
 
 int  main(void)
