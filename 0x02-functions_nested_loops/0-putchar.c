@@ -2,14 +2,10 @@
 
 /**
 * main - Entry point
-*
-*function that prints "_putchar"
-*return: Always 0 (Success)
-*@void: is the char to print
+*Return: Always 0 (Success)
 */
 
 int  main(void)
-
 {
 
 _putchar('_');
