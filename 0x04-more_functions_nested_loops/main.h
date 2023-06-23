@@ -1,5 +1,5 @@
-#ifndef _HOLBERTON_H_
-#define _HOLBERTON_H_
+#ifndef main_h
+#define main_h
 
 char _isupper(char c);
 int _isdigit(int c);
