@@ -1,1 +1,1 @@
-This repository contains projects related to the ALX Low Level Programming
+Repo for ALX low level programming 
