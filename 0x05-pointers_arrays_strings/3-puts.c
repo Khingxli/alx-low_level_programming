@@ -7,15 +7,8 @@
 */
 void _puts(char *str)
 {
-int count = 0;
-while (count >= 0)
-{
-if (str[count] == '\0')
-{
-_puts("\n");
-break;
+for (; *str != '\0'; str++)
+{_putchar(*str);
 }
-_puts(str[count]);
-count++;
-}
+_putchar('\0')
 }
